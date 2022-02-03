@@ -30,7 +30,7 @@ import (
 	// version (<v2) of github.com/hashicorp/terraform-plugin-sdk.
 	// "github.com/crossplane/terrajet/pkg/types/conversion"
 
-	"github.com/crossplane-contrib/provider-jet-template/config"
+	"github.com/crossplane-contrib/provider-jet-github/config"
 )
 
 func main() {
